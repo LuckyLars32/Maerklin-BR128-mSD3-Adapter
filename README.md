@@ -19,7 +19,7 @@ Der Keramikkondensator 1206 mit 1UF muss auf die Pads zwischen R1 und R3
 
 # Pufferschaltung über mSD3 SUSI
 Zusätzlich benötigte Komponenten:
-2x Elko mit 500 - 1000 UF und max. 8,2 x 20 mm Radial
+1x Elko mit 1000 - 2000 UF und max. 13 x 20 mm Radial
 1x Schottkydiode mit 2 A Stromfestigkeit 25V Spannungsfestigkeit (mehr geht auch)
 1x Widerstand 100 Ω
 Zusammenbau:
